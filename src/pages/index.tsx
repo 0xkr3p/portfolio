@@ -10,7 +10,7 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main className='bg-pink-50'>
-        <h2 className='text-green-500'>Testing Tailwind</h2>
+        <h2 className='text-green-500'>Testing Tailwind test</h2>
       </main>
     </>
   )
